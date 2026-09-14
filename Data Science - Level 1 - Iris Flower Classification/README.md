@@ -148,15 +148,45 @@ The project also provides:
 
 ## 📸 Screenshots
 
-Screenshots of the following outputs will be added to this section:
+### Pairwise Feature Relationships
 
-* Dataset overview
-* Exploratory Data Analysis
-* Pair plot
-* Model comparison
-* Confusion matrix
-* Feature importance
-* New flower prediction
+![Pairplot](pairpilot.png.png)
+
+### Model Accuracy Results
+
+![Model Accuracy Results](model_comparison.png.png)
+
+### Model Accuracy Comparison
+
+![Model Accuracy Comparison](model_comparison.png%20(2).png)
+
+### Logistic Regression — Confusion Matrix
+
+![Logistic Regression Confusion Matrix](confusion_matrix.png%281%29.png)
+
+### K-Nearest Neighbors — Confusion Matrix
+
+![K-Nearest Neighbors Confusion Matrix](confusion_matrix.png%282%29.png)
+
+### Decision Tree — Confusion Matrix
+
+![Decision Tree Confusion Matrix](confusion_matrix.png%283%29.png)
+
+### Random Forest — Confusion Matrix
+
+![Random Forest Confusion Matrix](confusion_matrix.png%284%29.png)
+
+### New Flower Prediction
+
+![New Flower Prediction](Prediction%281%29.png.png)
+
+### Prediction Probability
+
+![Prediction Probability](Prediction%282%29.png.png)
+
+### Prediction Probability Graph
+
+![Prediction Probability Graph](Prediction%283%29.png.png)
 
 ---
 
